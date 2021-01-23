@@ -1,0 +1,101 @@
+<div class="uk-margin header-mobile-menu__elements">
+        <ul id="menu-primary-menu" class="de-mobile-nav de-mobile-primary__nav uk-nav-default uk-nav-parent-icon uk-nav" data-uk-nav="multiple:false;">
+          <li id="nav-menu-item-889" class="menu-item-depth-0 main-menu-item menu-item-even uk-parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> <a href="#" class="menu-link main-menu-link"> Home </a>
+            <ul class="sub-menu menu-odd de-mobile-nav__depth-1 uk-nav-default uk-nav-parent-icon uk-nav" data-uk-nav="multiple:false;" aria-hidden="true" hidden="">
+              <li id="nav-menu-item-451" class="menu-item-depth-1 sub-menu-item  menu-item-odd  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/home-default/" class="menu-link sub-menu-link"> Home Default </a> </li>
+              <li id="nav-menu-item-450" class="menu-item-depth-1 sub-menu-item  menu-item-odd  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/home-alternative/" class="menu-link sub-menu-link"> Home Alternative </a> </li>
+              <li id="nav-menu-item-890" class="menu-item-depth-1 sub-menu-item  menu-item-odd  menu-item menu-item-type-post_type menu-item-object-page menu-item-home"> <a href="http://dahz.daffyhazan.com/baklon/" class="menu-link sub-menu-link"> Home Custom </a> </li>
+              <li id="nav-menu-item-1003" class="menu-item-depth-1 sub-menu-item  menu-item-odd  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/home-classic/" class="menu-link sub-menu-link"> Home Classic </a> </li>
+            </ul>
+          </li>
+          <li id="nav-menu-item-1074" class="menu-item-depth-0 main-menu-item menu-item-even uk-parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> <a href="#" class="menu-link main-menu-link"> Pages </a>
+            <ul class="sub-menu menu-odd de-mobile-nav__depth-1 uk-nav-default uk-nav-parent-icon uk-nav" data-uk-nav="multiple:false;" aria-hidden="true" hidden="">
+              <li id="nav-menu-item-1968" class="menu-item-depth-1 sub-menu-item  menu-item-odd uk-parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> <a href="#" class="menu-link sub-menu-link megamenu__title"> Pages 1 </a>
+                <ul class="sub-menu menu-even sub-sub-menu de-mobile-nav__depth-2 uk-nav-default uk-nav-parent-icon uk-nav" data-uk-nav="multiple:false;" hidden="" aria-hidden="true">
+                  <li id="nav-menu-item-1097" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/about-us/" class="menu-link sub-menu-link"> About Us </a> </li>
+                  <li id="nav-menu-item-1095" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/biography/" class="menu-link sub-menu-link"> Biography </a> </li>
+                  <li id="nav-menu-item-1100" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/coming-soon/" class="menu-link sub-menu-link"> Coming Soon </a> </li>
+                  <li id="nav-menu-item-1099" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/coming-soon-alt/" class="menu-link sub-menu-link"> Coming Soon Alt </a> </li>
+                  <li id="nav-menu-item-1096" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/contact/" class="menu-link sub-menu-link"> Contact </a> </li>
+                </ul>
+              </li>
+              <li id="nav-menu-item-1969" class="menu-item-depth-1 sub-menu-item  menu-item-odd uk-parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> <a href="#" class="menu-link sub-menu-link megamenu__title"> Pages 2 </a>
+                <ul class="sub-menu menu-even sub-sub-menu de-mobile-nav__depth-2 uk-nav-default uk-nav-parent-icon uk-nav" data-uk-nav="multiple:false;" hidden="" aria-hidden="true">
+                  <li id="nav-menu-item-1142" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/contact-form/" class="menu-link sub-menu-link"> Contact Form </a> </li>
+                  <li id="nav-menu-item-1860" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-custom menu-item-object-custom"> <a href="http://dahz.daffyhazan.com/baklon/donations/" class="menu-link sub-menu-link"> Donation Form </a> </li>
+                  <li id="nav-menu-item-1091" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/faq/" class="menu-link sub-menu-link"> FAQ </a> </li>
+                  <li id="nav-menu-item-1857" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/issue/" class="menu-link sub-menu-link"> Issue </a> </li>
+                  <li id="nav-menu-item-1101" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/landing-donation/" class="menu-link sub-menu-link"> Landing Donation </a> </li>
+                </ul>
+              </li>
+              <li id="nav-menu-item-1970" class="menu-item-depth-1 sub-menu-item  menu-item-odd uk-parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> <a href="#" class="menu-link sub-menu-link megamenu__title"> Pages 3 </a>
+                <ul class="sub-menu menu-even sub-sub-menu de-mobile-nav__depth-2 uk-nav-default uk-nav-parent-icon uk-nav" data-uk-nav="multiple:false;" hidden="" aria-hidden="true">
+                  <li id="nav-menu-item-1075" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/our-teams/" class="menu-link sub-menu-link"> Our Teams </a> </li>
+                  <li id="nav-menu-item-1103" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/shop/" class="menu-link sub-menu-link"> Shop </a> </li>
+                  <li id="nav-menu-item-1094" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/volunteer/" class="menu-link sub-menu-link"> Volunteer </a> </li>
+                  <li id="nav-menu-item-1093" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/what-we-fight-for/" class="menu-link sub-menu-link"> What We Fight For </a> </li>
+                  <li id="nav-menu-item-1862" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-custom menu-item-object-custom"> <a href="http://dahz.daffyhazan.com/baklon/404" class="menu-link sub-menu-link"> 404 Page </a> </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li id="nav-menu-item-1811" class="menu-item-depth-0 main-menu-item  menu-item-even uk-parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> <a href="#" class="menu-link main-menu-link"> Element </a>
+            <ul class="sub-menu menu-odd de-mobile-nav__depth-1 uk-nav-default uk-nav-parent-icon uk-nav" data-uk-nav="multiple:false;" hidden="" aria-hidden="true">
+              <li id="nav-menu-item-1812" class="menu-item-depth-1 sub-menu-item  menu-item-odd uk-parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> <a href="#" class="menu-link sub-menu-link megamenu__title"> Element 1 </a>
+                <ul class="sub-menu menu-even sub-sub-menu de-mobile-nav__depth-2 uk-nav-default uk-nav-parent-icon uk-nav" data-uk-nav="multiple:false;" hidden="" aria-hidden="true">
+                  <li id="nav-menu-item-1816" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/accordion/" class="menu-link sub-menu-link"> Accordion </a> </li>
+                  <li id="nav-menu-item-1817" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/animated-text/" class="menu-link sub-menu-link"> Animated Text </a> </li>
+                  <li id="nav-menu-item-1818" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/banner/" class="menu-link sub-menu-link"> Banner </a> </li>
+                  <li id="nav-menu-item-1819" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/before-after/" class="menu-link sub-menu-link"> Before &amp; After </a> </li>
+                  <li id="nav-menu-item-1820" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/cascading-image/" class="menu-link sub-menu-link"> Cascading Image </a> </li>
+                  <li id="nav-menu-item-1821" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/column/" class="menu-link sub-menu-link"> Column </a> </li>
+                </ul>
+              </li>
+              <li id="nav-menu-item-1813" class="menu-item-depth-1 sub-menu-item  menu-item-odd uk-parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> <a href="#" class="menu-link sub-menu-link megamenu__title"> Element 2 </a>
+                <ul class="sub-menu menu-even sub-sub-menu de-mobile-nav__depth-2 uk-nav-default uk-nav-parent-icon uk-nav" data-uk-nav="multiple:false;" hidden="" aria-hidden="true">
+                  <li id="nav-menu-item-1822" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/countdown/" class="menu-link sub-menu-link"> Countdown </a> </li>
+                  <li id="nav-menu-item-1823" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/custom-heading/" class="menu-link sub-menu-link"> Custom Heading </a> </li>
+                  <li id="nav-menu-item-1824" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/flip-box/" class="menu-link sub-menu-link"> Flip Box </a> </li>
+                  <li id="nav-menu-item-1825" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/icon-box-icon-list/" class="menu-link sub-menu-link"> Icon Box &amp; Icon List </a> </li>
+                  <li id="nav-menu-item-1826" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/image-gallery/" class="menu-link sub-menu-link"> Image Gallery </a> </li>
+                  <li id="nav-menu-item-1827" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/image-hotspot/" class="menu-link sub-menu-link"> Image Hotspot </a> </li>
+                </ul>
+              </li>
+              <li id="nav-menu-item-1814" class="menu-item-depth-1 sub-menu-item  menu-item-odd uk-parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> <a href="#" class="menu-link sub-menu-link megamenu__title"> Element 3 </a>
+                <ul class="sub-menu menu-even sub-sub-menu de-mobile-nav__depth-2 uk-nav-default uk-nav-parent-icon uk-nav" data-uk-nav="multiple:false;" hidden="" aria-hidden="true">
+                  <li id="nav-menu-item-1828" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/milestone-counter/" class="menu-link sub-menu-link"> Milestone Counter </a> </li>
+                  <li id="nav-menu-item-1829" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/parallax-section/" class="menu-link sub-menu-link"> Parallax Section </a> </li>
+                  <li id="nav-menu-item-1830" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/pie-chart/" class="menu-link sub-menu-link"> Pie Chart </a> </li>
+                  <li id="nav-menu-item-1831" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/pricing-table/" class="menu-link sub-menu-link"> Pricing Table </a> </li>
+                  <li id="nav-menu-item-1832" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/progress-bar/" class="menu-link sub-menu-link"> Progress Bar </a> </li>
+                  <li id="nav-menu-item-1833" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/scroll-to/" class="menu-link sub-menu-link"> Scroll To </a> </li>
+                </ul>
+              </li>
+              <li id="nav-menu-item-1815" class="menu-item-depth-1 sub-menu-item  menu-item-odd uk-parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> <a href="#" class="menu-link sub-menu-link megamenu__title"> Element 4 </a>
+                <ul class="sub-menu menu-even sub-sub-menu de-mobile-nav__depth-2 uk-nav-default uk-nav-parent-icon uk-nav" data-uk-nav="multiple:false;" hidden="" aria-hidden="true">
+                  <li id="nav-menu-item-1834" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/tabs/" class="menu-link sub-menu-link"> Tabs </a> </li>
+                  <li id="nav-menu-item-1835" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/team-member/" class="menu-link sub-menu-link"> Team Member </a> </li>
+                  <li id="nav-menu-item-1836" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/typography/" class="menu-link sub-menu-link"> Typography </a> </li>
+                  <li id="nav-menu-item-1847" class="menu-item-depth-2 sub-menu-item sub-sub-menu-item menu-item-even  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/element/video/" class="menu-link sub-menu-link"> Video </a> </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li id="nav-menu-item-1848" class="menu-item-depth-0 main-menu-item menu-item-even uk-parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> <a href="http://dahz.daffyhazan.com/baklon/events/" class="menu-link main-menu-link"> Events </a>
+            <ul class="sub-menu menu-odd de-mobile-nav__depth-1 uk-nav-default uk-nav-parent-icon uk-nav" data-uk-nav="multiple:false;" aria-hidden="true" hidden="">
+              <li id="nav-menu-item-1852" class="menu-item-depth-1 sub-menu-item  menu-item-odd  menu-item menu-item-type-custom menu-item-object-custom"> <a href="http://dahz.daffyhazan.com/baklon/events/list/" class="menu-link sub-menu-link"> Event List </a> </li>
+              <li id="nav-menu-item-1853" class="menu-item-depth-1 sub-menu-item  menu-item-odd  menu-item menu-item-type-custom menu-item-object-custom"> <a href="http://dahz.daffyhazan.com/baklon/events/month/" class="menu-link sub-menu-link"> Event By Month </a> </li>
+              <li id="nav-menu-item-1851" class="menu-item-depth-1 sub-menu-item  menu-item-odd  menu-item menu-item-type-custom menu-item-object-custom"> <a href="http://dahz.daffyhazan.com/baklon/events/today/" class="menu-link sub-menu-link"> Event By Day </a> </li>
+              <li id="nav-menu-item-1850" class="menu-item-depth-1 sub-menu-item  menu-item-odd  menu-item menu-item-type-post_type menu-item-object-tribe_events"> <a href="http://dahz.daffyhazan.com/baklon/event/dinner-with-franco/" class="menu-link sub-menu-link"> Single Event </a> </li>
+            </ul>
+          </li>
+          <li id="nav-menu-item-1856" class="menu-item-depth-0 main-menu-item  menu-item-even  menu-item menu-item-type-post_type menu-item-object-page current_page_parent"> <a href="http://dahz.daffyhazan.com/baklon/blog/" class="menu-link main-menu-link"> Blog </a> </li>
+          <li id="nav-menu-item-1976" class="menu-item-depth-0 main-menu-item  menu-item-even uk-parent menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"> <a href="http://dahz.daffyhazan.com/baklon/shop/" class="menu-link main-menu-link"> Shop </a>
+            <ul class="sub-menu menu-odd de-mobile-nav__depth-1 uk-nav-default uk-nav-parent-icon uk-nav" data-uk-nav="multiple:false;" hidden="" aria-hidden="true">
+              <li id="nav-menu-item-1975" class="menu-item-depth-1 sub-menu-item  menu-item-odd  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/my-account/" class="menu-link sub-menu-link"> My account </a> </li>
+              <li id="nav-menu-item-1973" class="menu-item-depth-1 sub-menu-item  menu-item-odd  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/cart/" class="menu-link sub-menu-link"> Cart </a> </li>
+              <li id="nav-menu-item-1974" class="menu-item-depth-1 sub-menu-item  menu-item-odd  menu-item menu-item-type-post_type menu-item-object-page"> <a href="http://dahz.daffyhazan.com/baklon/checkout/" class="menu-link sub-menu-link"> Checkout </a> </li>
+            </ul>
+          </li>
+        </ul>
+      </div>

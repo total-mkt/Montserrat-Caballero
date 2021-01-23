@@ -1,0 +1,83 @@
+#Fix Rewrite
+Options -Multiviews
+# Mod Rewrite
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^total-mkt\.com$ [NC]
+RewriteRule ^(.*)$ https://www.total-mkt.com/$1 [R=301,L]
+
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Links
+RewriteRule ^agencia-marketing-tecate/?$ agencia-marketing-tecate.php [L]
+RewriteRule ^servicios/?$ servicios.php [L]
+RewriteRule ^contacto/?$ contacto.php [L]
+RewriteRule ^agendar-llamada/?$ agendar-llamada.php [L]
+RewriteRule ^politica-de-privacidad/?$ politica-de-privacidad.php [L]
+RewriteRule ^terminos-y-condiciones/?$ terminos-y-condiciones.php [L]
+
+
+# Servicios
+RewriteRule ^crm-en-tecate/?$ crm.php [L]
+RewriteRule ^diseno-de-paginas-web-en-tecate/?$ diseno-web.php [L]
+RewriteRule ^e-commerce-en-tecate/?$ e-commerce.php [L]
+RewriteRule ^video-en-tecate/?$ video.php [L]
+RewriteRule ^tour-virtual-en-tecate/?$ tour-virtual.php [L]
+RewriteRule ^apps-en-tecate/?$ apps.php [L]
+RewriteRule ^landing-page-en-tecate/?$ landing-page.php [L]
+RewriteRule ^posicionamiento-web-en-tecate/?$ seo.php [L]
+RewriteRule ^branding-en-tecate/?$ branding.php [L]
+RewriteRule ^redes-sociales-en-tecate/?$ redes-sociales.php [L]
+
+#Blog
+RewriteRule ^blog/?$ blog.php [L]
+RewriteRule ^blog/(.*)/?$ post.php?permalink=$1 [L]
+
+
+
+
+
+# Error 404
+
+ErrorDocument 404 /404.html
+RewriteRule ^404.html?$ 404.php [L]
+
+# compress text, html, javascript, css, xml:
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+
+# Or, compress certain file types by extension:
+
+<files *.php>
+SetOutputFilter DEFLATE
+</files>
+
+# Expire headers
+
+<IfModule mod_expires.c>
+# Enable expirations
+ExpiresActive On 
+# Default directive
+ExpiresDefault "access plus 1 month"
+# My favicon
+ExpiresByType image/x-icon "access plus 1 year"
+# Images
+ExpiresByType image/gif "access plus 1 month"
+ExpiresByType image/png "access plus 1 month"
+ExpiresByType image/jpg "access plus 1 month"
+ExpiresByType image/jpeg "access plus 1 month"
+# CSS
+ExpiresByType text/css "access plus 1 month"
+# Javascript
+ExpiresByType application/javascript "access plus 1 year"
+</IfModule>
